@@ -1,0 +1,3 @@
+[submodule "testGit2"]
+	path = testGit2
+	url = https://github.com/laiis/testGit2.git
